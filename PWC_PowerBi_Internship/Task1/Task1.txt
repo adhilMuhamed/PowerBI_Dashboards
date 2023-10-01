@@ -1,0 +1,3 @@
+Task 1 : Tell us, what do you hope to learn during this experience with us?
+
+I'm eager to enhance my Power BI skills by mastering the art of creating interactive and visually captivating dashboards. My goal is to efficiently extract insights from extensive and intricate datasets. I aim to elevate my proficiency in visualizing and analyzing data, exploring automation, and implementing machine learning strategies within Power BI. Additionally, I aspire to refine my design thinking and digital storytelling abilities to effectively convey insights to both customers and stakeholders.
